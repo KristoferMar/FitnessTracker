@@ -1,3 +1,9 @@
+# How to unsubscribe from a subscribed variable
+
+Too see how it's done go to the following component and observe:
+
+- new-training.component.ts
+
 # FitnessTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
